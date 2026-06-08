@@ -29,7 +29,7 @@ src/
 
 *INSTRUCCIONES PARA COMPILAR Y EJECUTAR MAIN*
 
-1.- Descargar el repósitorio desde GitHub.
+1.- Clonar y/o Descargar el repósitorio desde GitHub.
 2.- Abrir Proyecto en IntelliJ IDEA
 3.- Verificar que la estructura de paquetes se encuentre correctamente organizada
 4.- Ejecutar Main.java ubicada en el paquete app.
